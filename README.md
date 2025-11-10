@@ -11,4 +11,4 @@
 
 4 3D Flip Card Slider - проект на Swiper js. функционал скролл карточек на колесико мыши,клик по навигационной панели внизу. я смог еще больше научиться со слайдером,отренировать джс и освоил новые стили такие как pointer-events: none; will-change: transform; и другие.
 
-5 3D Flip Card Slider training - проект на Swiper js.
+5 Swiper Slider Parallax - проект на Swiper js. функционал скролл карточек с эффектом паралакс на колесо мыши,перетягивание курсором. я отпракткиковал работу со свайпером и изучил новые стили в виде background-image: radial-gradient,filter.
